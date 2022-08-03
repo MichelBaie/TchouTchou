@@ -21,7 +21,7 @@ echo "! une fois le train lancé, enfoncez CTRL+C pendant quelque seconde pour s
 read -p "appuyer sur ENTRER pour lancer le train"
 
 clear
-echo "Lancement de TchouTchou.sh (édition summer 2021)"
+echo "Lancement de TchouTchou.sh (édition summer 2022)"
 sleep 1
 
 for (( ; ; ))
