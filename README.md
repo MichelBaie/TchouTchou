@@ -15,6 +15,8 @@ bash <(curl -Ss https://raw.githubusercontent.com/MichelBaie/TchouTchou/master/t
 
 Remerciements à : 
 
+- [Tryon](https://github.com/Tryon-dev)
+
 - [ReiTW](https://github.com/Rei-Tw)
 
 - [Aven678](https://github.com/Aven678)
