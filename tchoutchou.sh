@@ -2,7 +2,6 @@ echo "Bienvenue dans tchoutchou le tout premier script ferroviaire de github"
 echo "Nous allons avant tout vérifier que tchoutchou peut se lancer sur ta machine..." 
 
 if [ -f /etc/os-release ]; then
-    # freedesktop.org and systemd
     . /etc/os-release
     OS=$ID
 fi
